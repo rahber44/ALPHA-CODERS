@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the MEDI TRACK 1.0
+---------------------------------------------------
+
+app_name - 						MEDI TRACK
+app_alias - 					meditrack
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Singapore
+app_author_country - 			Singapore
+app_password - 					AE0nC8CmdqlS
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Saturday 10th of May 2025 09:15:59 AM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
